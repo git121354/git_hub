@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    color: green;
+    width: 500px;
+    text-align: center;
+}
+
+h1{
+    color: purple;
+}
+
+.text{
+   text-align: center;
+   margin: auto;
+}
